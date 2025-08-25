@@ -9,7 +9,7 @@ Automatically installs dependencies and lets you choose a folder for downloads (
 
 ## 📌 Installation
 ```bash
-git clone https://github.com/YourUsername/YT-Downloader-Termux.git
+git clone (https://github.com/masum09/YtdownloadByBBR.git)
 cd YT-Downloader-Termux
 chmod +x yt-downloader.sh
 ```
